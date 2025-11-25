@@ -1,2 +1,0 @@
-hello from sub repo
-new changes in sub repo
